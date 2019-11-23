@@ -1,0 +1,32 @@
+// There are basically 5 types of primitive data type in javaScript
+/*
+1). Integer and there is no float in javaScript the integer is treated as float also.
+2). String
+3). boolean
+4). Undifine
+5). null
+*/
+
+// First example Integer
+
+var number;
+number= 23;
+
+// Second example string
+
+var name;
+name='shivam';
+
+// Third example boolean
+
+var married:
+married="False";
+
+//forth example undefine
+
+var input;
+
+// fifth example null
+
+var input=null;
+
